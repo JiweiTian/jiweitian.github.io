@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My research focuses on AI-assisted Cybersecurity solutions for autonomous vehicles. I build systems that learn patterns from and collect data about the network, operator, and attacker behaviors. I conduct ethical penetration testing on real world autonomous vehicles to identify the vulnerabilities. I analyze the data my system collects using machine learning to uncover the critical operational threats and risks to develop intelligent intrusion detection system that can automatically detect and respond to the sophisticated attacks.
+I am with the Ministry of Education Key Laboratory for Intelligent Networks and Network Security, School of Cyber Science and Engineering, Xi’an Jiaotong University, Xi'an. I am also working at AFEU, Xi'an. My research interests include Cyber Physical System/Internet of Things Security, AI and Security, Physical Layer Security, and so on. I am an editor of IET Information Security and International Journal of Energy Research. 
+
+Email: tianjiwei2016@163.com; jiweitian@xjtu.edu.cn.
 
 The executed attacks includes stealthy False data injection, evil twin, replay, de-authentication, evasion attacks, reinforcement learning to attack a drone swarm, etc.
 
 
-![Editing a markdown file for a talk](/images/Tello.png)
 
 # Practical Testbed
 We have developed a practical testbed for the execution of cyber attacks and designed a system thats capture the cyber data (communication pattern between the drone and ground station) and physical data (physical behavirol characteristics of the drone). It consists of Tello EDU drones, WiFi access point, ALFA AWUS036ACH network adapter, and two computers. 
