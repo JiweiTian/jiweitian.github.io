@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Umair Mugha"
+name                     : &name "Jiwei Tian"
 description              : &description "personal description"
-url                      : https://uamughal.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jiweitian.github.io/atm_tjw.github.io/  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "uamughal/uamughal.github.io"
+repository               : "JiweiTian/atm_tjw.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Umair Mughal"
   avatar           : "headshot.jpg"
-  bio              : "I am a PhD Candidate at the Computer Science Department at Tennessee Tech University."
-  location         : "Tenneessee, USA"
+  bio              : "I am with  Xi’an Jiaotong University and AFEU."
+  location         : "Xi'an, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yIQfpKIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : " umairmughal42@tntech.edu"
-  researchgate     : "https://www.researchgate.net/profile/Umair-Mughal/research"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=-8U-SxwAAAAJ&hl=zh-CN&oi=sra"
+  email            : "mailto:example@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Tian-Jiwei"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "uamughal"
+  github           : "JiweiTian"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
-  linkedin         : "umair-mughal-490715174/" 
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0000-0002-1485-7465"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
