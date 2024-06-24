@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Reviewer"
-permalink: /Reviewer/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
