@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Referee/Reviewer"
-permalink: /teaching/
+title: "Reviewer"
+permalink: /Reviewer/
 author_profile: true
 ---
 
