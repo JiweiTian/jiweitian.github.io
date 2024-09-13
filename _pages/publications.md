@@ -9,7 +9,7 @@ author_profile: true
 
 ### Journals Publications  (Updating)
 
-1. LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection[J]. IEEE Transactions on Dependable and Secure Computing, 2024, DOI: 10.1109/TDSC.2024.3353302.
+1. LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection[J]. IEEE Transactions on Dependable and Secure Computing, 2024, 21(5):4418-4432.
 2. Joint Adversarial Example and False Data Injection Attacks for State Estimation in Power Systems[J]. IEEE Transactions on Cybernetics, 2022,52(12):13699-13713.
 3. Exploring Targeted and Stealthy False Data Injection Attacks via Adversarial Machine Learning[J]. IEEE Internet of Things Journal, 2022, 9(15): 14116-14125.
 4. TOTAL: Optimal Protection Strategy against Perfect and Imperfect False Data Injection Attacks on Power Grid Cyber Physical Systems[J]. IEEE Internet of Things Journal, 2021, 8(2): 1001-1015.
@@ -39,4 +39,8 @@ author_profile: true
 28. TCFLTformer: TextCNN-Flat-Lattice Transformer for Entity Recognition of Air Traffic Management Cyber Threat Knowledge Graphs[J]. Aerospace, 2023, 10(8):697.
 29. Evaluation of Air Combat Control Ability Based on Eye Movement Indicators and Combination Weighting GRA-TOPSIS[J]. Aerospace, 2023, 10(5):437.
 30. CPFuzz: Combining Fuzzing and Falsification of Cyber-Physical Systems[J]. IEEE Access, vol. 8, pp. 166951-166962, 2020.
-31. Threat Model and Construction Strategy on ADS-B Attack Data[J]. IET Information Security, 2020, 14(5): 542-552. 
+31. Threat Model and Construction Strategy on ADS-B Attack Data[J]. IET Information Security, 2020, 14(5): 542-552.
+32. ADS-Bpois: Poisoning Attacks against Deep Learning-Based Air Traffic ADS-B Unsupervised Anomaly Detection Models[J]. IEEE Internet of Things Journal, 2024.
+33. A General Black-box Adversarial Attack on Graph-based Fake News Detectors. IJCAI-2024.
+34. Efficient SFC Protection Method against Network Attack Risks in Air Traffic Information Networks. Electronics 2024, 13, 2664.
+35. Adversarial Attacks against Deep-Learning-Based Automatic Dependent Surveillance-Broadcast Unsupervised Anomaly Detection Models in the Context of Air Traffic Management. Sensors 2024, 24, 3584.
