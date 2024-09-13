@@ -13,7 +13,7 @@ author_profile: true
 2. Joint Adversarial Example and False Data Injection Attacks for State Estimation in Power Systems[J]. IEEE Transactions on Cybernetics, 2022,52(12):13699-13713.
 3. Exploring Targeted and Stealthy False Data Injection Attacks via Adversarial Machine Learning[J]. IEEE Internet of Things Journal, 2022, 9(15): 14116-14125.
 4. TOTAL: Optimal Protection Strategy against Perfect and Imperfect False Data Injection Attacks on Power Grid Cyber Physical Systems[J]. IEEE Internet of Things Journal, 2021, 8(2): 1001-1015.
-5. Adversarial Attacks and Defenses for Deep Learning-based Unmanned Aerial Vehicles[J]. IEEE Internet of Things Journal, 2022, 9(22): 22399-22409.
+5. 高被引论文 Adversarial Attacks and Defenses for Deep Learning-based Unmanned Aerial Vehicles[J]. IEEE Internet of Things Journal, 2022, 9(22): 22399-22409.
 6. Adversarial Attacks and Defense for CNN based Power Quality Recognition in Smart Grid[J]. IEEE Transactions on Network Science and Engineering, 2022, 9(2): 807-819.
 7. Coordinated Cyber-Physical Attacks considering DoS Attacks in Power Systems[J]. International Journal of Robust and Nonlinear Control, 2020, 30(11): 4345– 4358.
 8. Datadriven false data injection attacks against cyber-physical power systems[J]. Computers & Security, 2022(121):102836.
