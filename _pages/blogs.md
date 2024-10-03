@@ -7,7 +7,8 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-Call for paper: Security Challenges and Defense Methods for Emerging AI Driven Applications https://ietresearch.onlinelibrary.wiley.com/doi/toc/10.1049/IETIS.si.380506
+Call for paper (IET Information Security): Security Challenges and Defense Methods for Emerging AI Driven Applications 
+https://ietresearch.onlinelibrary.wiley.com/doi/toc/10.1049/IETIS.si.380506
 
 Artificial Intelligence (AI) techniques, e.g., deep neural networks (DNNs), have been significantly refreshing the state-of-the-art performance of various tasks, e.g., face recognition, robotic grasping, obstacle avoidance of autonomous-driving cars, and UAV Guidance and Planning.
 
