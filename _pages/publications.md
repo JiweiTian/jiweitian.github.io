@@ -9,7 +9,7 @@ author_profile: true
 
 ### Journals Publications  (Updating)
 
-1. LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection[J]. IEEE Transactions on Dependable and Secure Computing, 2024, 21(5):4418-4432.
+1. 高被引论文 LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection[J]. IEEE Transactions on Dependable and Secure Computing, 2024, 21(5):4418-4432.
 2. EVADE: Targeted Adversarial False Data Injection Attacks for State Estimation in Smart Grid[J]. IEEE Transactions on Sustainable Computing,2024.
 3. Joint Adversarial Example and False Data Injection Attacks for State Estimation in Power Systems[J]. IEEE Transactions on Cybernetics, 2022,52(12):13699-13713.
 4. Exploring Targeted and Stealthy False Data Injection Attacks via Adversarial Machine Learning[J]. IEEE Internet of Things Journal, 2022, 9(15): 14116-14125.
