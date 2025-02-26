@@ -46,3 +46,4 @@ author_profile: true
 35. A General Black-box Adversarial Attack on Graph-based Fake News Detectors. IJCAI, 2024.
 36. Efficient SFC Protection Method against Network Attack Risks in Air Traffic Information Networks. Electronics 2024, 13, 2664.
 37. Adversarial Attacks against Deep-Learning-Based Automatic Dependent Surveillance-Broadcast Unsupervised Anomaly Detection Models in the Context of Air Traffic Management. Sensors 2024, 24, 3584.
+38. URAdv: A Novel Framework for Generating Ultra-Robust Adversarial Patches Against UAV Object Detection. Mathematics, 13(4), 591.
