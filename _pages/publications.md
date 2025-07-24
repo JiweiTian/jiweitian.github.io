@@ -47,4 +47,6 @@ author_profile: true
 36. Efficient SFC Protection Method against Network Attack Risks in Air Traffic Information Networks. Electronics 2024, 13, 2664.
 37. Adversarial Attacks against Deep-Learning-Based Automatic Dependent Surveillance-Broadcast Unsupervised Anomaly Detection Models in the Context of Air Traffic Management. Sensors 2024, 24, 3584.
 38. URAdv: A Novel Framework for Generating Ultra-Robust Adversarial Patches Against UAV Object Detection. Mathematics, 13(4), 591.
-39. Dynamic Quasi-Hyperbolic Momentum Iterative Attack With Small Perturbation for 4D-Flight Trajectory Prediction[J]. IEEE Internet of Things Journal,2025, DOI: 10.1109/JIOT.2025.3554800. 
+39. Dynamic Quasi-Hyperbolic Momentum Iterative Attack With Small Perturbation for 4D-Flight Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025,12(12):22533-22553.
+40. Attack Impact Analysis of Service Function Chain in Aviation Communication Network[J].IEEE Sensors Journal,2025, 25(11):27628-27641.
+41. An Efficient and Low-Delay SFC Recovery Method in the Space–Air–Ground Integrated Aviation Information Network with Integrated UAVs. Drones 2025, 9, 440. https://doi.org/10.3390/drones9060440.
