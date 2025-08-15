@@ -25,12 +25,12 @@ author_profile: true
 14. Optimal Attack Path Planning based on Reinforcement Learning and Cyber Threat Knowledge Graph Combining the ATT&CK for Air Traffic Management System[J]. IEEE Transactions on Transportation Electrification,2024.
 15. TTSAD: TCN-Transformer-SVDD Model for Anomaly Detection in Air Traffic ADS-B Data[J]. Computers & Security, 2024: 103840.
 16. Aerial IRS-Assisted Secure SWIPT System With UAV Jitter[J]. IEEE Transactions on Green Communications and Networking, 2024:1-15,DOI:10.1109/TGCN.2024.3366539.
-17. Enhancing Physical Layer Security for IoT with Non-Orthogonal Multiple Access Assisted Semi-Grant-Free Transmission[J]. IEEE Internet of Things Journal, 2022,9(24): 24669-24681.
+17. 高被引论文 Enhancing Physical Layer Security for IoT with Non-Orthogonal Multiple Access Assisted Semi-Grant-Free Transmission[J]. IEEE Internet of Things Journal, 2022,9(24): 24669-24681.
 18. Secure Transmission Designs for NOMA Systems against Internal and External Eavesdropping [J]. IEEE Transactions on Information Forensics and Security, 2020, 15:2930-2943.
 19. Secure Transmission Design of RIS Enabled UAV Communication Networks Exploiting Deep Reinforcement Learning[J]. IEEE Transactions on Vehicular Technology,2024:1-15. doi: 10.1109/TVT.2024.3357821.
 20. Deep Reinforcement Learning Based UAV for Securing mmWave Communications[J]. IEEE Transactions on Vehicular Technology, 2023, 72(4):5429-5434.
 21. On the Security Enhancement of Uplink NOMA Systems with Jammer Selection [J]. IEEE Transactions on Communications, 2020, 68(9):5747-5763.
-22. Achieving Reliable and Secure Communications in Wireless-Powered NOMA Systems [J]. IEEE Transactions on Vehicular Technology, 2021,70(2): 1978-1983.
+22. 高被引论文 Achieving Reliable and Secure Communications in Wireless-Powered NOMA Systems [J]. IEEE Transactions on Vehicular Technology, 2021,70(2): 1978-1983.
 23. Threat impact analysis to air traffic control systems through flight delay modeling[J]. Computers & Industrial Engineering, 2021, 162: 107731.
 24. Adversarial Examples on Deep-Learning Based ADS-B Spoofing Detection [J]. IEEE Wireless Communications Letters, 2020,9(10):1734-1737.
 25. Adaptive Cooperative Jamming for Secure Communication in Energy Harvesting Relay Networks[J]. IEEE Wireless Communications Letters, 2019, 8(5):1316-1319.
@@ -50,3 +50,4 @@ author_profile: true
 39. Dynamic Quasi-Hyperbolic Momentum Iterative Attack With Small Perturbation for 4D-Flight Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025,12(12):22533-22553.
 40. Attack Impact Analysis of Service Function Chain in Aviation Communication Network[J].IEEE Sensors Journal,2025, 25(11):27628-27641.
 41. An Efficient and Low-Delay SFC Recovery Method in the Space–Air–Ground Integrated Aviation Information Network with Integrated UAVs. Drones 2025, 9, 440. https://doi.org/10.3390/drones9060440.
+42. Enhanced Cybersecurity Framework for Unmanned Aerial Systems A Comprehensive STRIDE-Model Analysis and Emerging Defense Strategies. IET Information Security, 2025, 9637334, 14 pages, 2025.
