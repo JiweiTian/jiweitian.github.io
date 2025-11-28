@@ -50,5 +50,5 @@ author_profile: true
 39. URAdv: A Novel Framework for Generating Ultra-Robust Adversarial Patches Against UAV Object Detection. Mathematics, 13(4), 591.
 40. Dynamic Quasi-Hyperbolic Momentum Iterative Attack With Small Perturbation for 4D-Flight Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025,12(12):22533-22553.
 41. Attack Impact Analysis of Service Function Chain in Aviation Communication Network[J].IEEE Sensors Journal,2025, 25(11):27628-27641.
-42. An Efficient and Low-Delay SFC Recovery Method in the Space–Air–Ground Integrated Aviation Information Network with Integrated UAVs. Drones 2025, 9, 440. https://doi.org/10.3390/drones9060440.
+42. An Efficient and Low-Delay SFC Recovery Method in the Space–Air–Ground Integrated Aviation Information Network with Integrated UAVs. Drones 2025, 9, 440.
 43. Enhanced Cybersecurity Framework for Unmanned Aerial Systems A Comprehensive STRIDE-Model Analysis and Emerging Defense Strategies. IET Information Security, 2025, 9637334, 14 pages, 2025.
