@@ -11,9 +11,9 @@ author_profile: true
 
 1. 高被引论文 LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection[J]. IEEE Transactions on Dependable and Secure Computing, 2024, 21(5):4418-4432.
 2. 高被引论文 EVADE: Targeted Adversarial False Data Injection Attacks for State Estimation in Smart Grid[J]. IEEE Transactions on Sustainable Computing, 2025, 10(3):534-546.
-3. ADMM-based Adversarial False Data Injection Attacks against Multi-Label Locational Detection[J].IEEE Transactions on Aerospace and Electronic Systems, 2026, DOI:10.1109/TAES.2026.3665166.
+3. ADMM-based Adversarial False Data Injection Attacks against Multi-Label Locational Detection[J].IEEE Transactions on Dependable and Secure Computing, 2026,23(1):263-277.
 4. MDA-SMuSha: an efficient and flexible multi-dimensional data aggregation scheme for privacy-preservation in smart grids[J]. IEEE Transactions on Dependable and Secure Computing, 2025, DOI:10.1109/TDSC.2025.3641705. 
-5. Service Function Chain Anomaly Detection Method for Cyber Threat Detection in Aviation Information System[J].IEEE Transactions on Dependable and Secure Computing, 2026,23(1):263-277.
+5. Service Function Chain Anomaly Detection Method for Cyber Threat Detection in Aviation Information System[J].IEEE Transactions on Aerospace and Electronic Systems,2026, doi: 10.1109/TAES.2026.3665166. 
 6. UPGP: Backdoor Defense via Unlearning Perturbation and Orthogonality-Constraint Gradient Projection[J]. Pattern Recognition, 2026: 113211.
 7. Joint Adversarial Example and False Data Injection Attacks for State Estimation in Power Systems[J]. IEEE Transactions on Cybernetics, 2022,52(12):13699-13713.
 8. Exploring Targeted and Stealthy False Data Injection Attacks via Adversarial Machine Learning[J]. IEEE Internet of Things Journal, 2022, 9(15): 14116-14125.
