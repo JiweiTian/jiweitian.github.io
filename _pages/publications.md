@@ -11,9 +11,9 @@ author_profile: true
 
 1. 高被引论文 LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection[J]. IEEE Transactions on Dependable and Secure Computing, 2024, 21(5):4418-4432.
 2. 高被引论文 EVADE: Targeted Adversarial False Data Injection Attacks for State Estimation in Smart Grid[J]. IEEE Transactions on Sustainable Computing, 2025, 10(3):534-546.
-3. ADMM-based Adversarial False Data Injection Attacks against Multi-Label Locational Detection[J].IEEE Transactions on Dependable and Secure Computing, 2026,23(1):263-277.
+3. 高被引论文 ADMM-based Adversarial False Data Injection Attacks against Multi-Label Locational Detection[J].IEEE Transactions on Dependable and Secure Computing, 2026,23(1):263-277.
 4. MDA-SMuSha: an efficient and flexible multi-dimensional data aggregation scheme for privacy-preservation in smart grids[J]. IEEE Transactions on Dependable and Secure Computing, 2026,23(2):4252-4268.
-5. Service Function Chain Anomaly Detection Method for Cyber Threat Detection in Aviation Information System[J].IEEE Transactions on Aerospace and Electronic Systems,2026, doi: 10.1109/TAES.2026.3665166. 
+5. Service Function Chain Anomaly Detection Method for Cyber Threat Detection in Aviation Information System[J].IEEE Transactions on Aerospace and Electronic Systems,2026,62:6624-6644.
 6. UPGP: Backdoor Defense via Unlearning Perturbation and Orthogonality-Constraint Gradient Projection[J]. Pattern Recognition, 2026: 113211.
 7. Joint Adversarial Example and False Data Injection Attacks for State Estimation in Power Systems[J]. IEEE Transactions on Cybernetics, 2022,52(12):13699-13713.
 8. Exploring Targeted and Stealthy False Data Injection Attacks via Adversarial Machine Learning[J]. IEEE Internet of Things Journal, 2022, 9(15): 14116-14125.
@@ -57,3 +57,7 @@ author_profile: true
 46. Enhanced Cybersecurity Framework for Unmanned Aerial Systems A Comprehensive STRIDE-Model Analysis and Emerging Defense Strategies. IET Information Security, 2025, 9637334, 14 pages, 2025.
 47. Towards Robust Physical Adversarial Attacks on UAV Object Detection: A Multi-Dimensional Feature Optimization Approach[J]. Machines 2025, 13, 1060.
 48. Black-Box Adversarial Attack With Nesterov-AdaX Momentum on Airport Ground Vehicle Surveillance[J]. Transactions on Emerging Telecommunications Technologies 37, no. 3 (2026): e70383.
+49. Collaborative Beamforming for Secure UAV Swarm Communications: An End-to-End MAPPO-Based Framework Against Mobile Eavesdroppers. Drones. 2026; 10(6):409.
+50. Hierarchical Neural-Guided Navigation with Vortex Artificial Potential Field for Robust Path Planning in Complex Environments. Drones 2026, 10, 240.
+51. Multi-Scale Feature Dispersion: Towards Occlusion-Resilient Adversarial Patches for UAV Perception. Drones 2026, 10, 501.
+52. A communication recovery method for heterogeneous UAV swarms based on joint optimization of kruskal algorithm and GCN[J]. Chinese Journal of Electronics,  vol. x, no. x, pp. 1–13, xxxx. DOI:  10.23919/cje.2025.00.309
